@@ -1,16 +1,16 @@
-// class Person {
-//     constructor(name, address){
-//         this.name = name;
-//         this.address = address;
-//     }
-// getAddress(){
-//     return "Tôi sống ở " + this.address;
-// }
-// }
+class Person {
+    constructor(name, address){
+        this.name = name;
+        this.address = address;
+    }
+getAddress(){
+    return "Tôi sống ở " + this.address;
+}
+}
 
-// const test = new Person('Trung', 'Hà Đông');
-// console.log(">>> ktra test: ", test)
-// console.log(">>> ktra address: ", test.getAddress());
+const test = new Person('Trung', 'Hà Đông');
+console.log(">>> ktra test: ", test)
+console.log(">>> ktra address: ", test.getAddress());
 
 //class B extends A: extends giúp B kế thừa A
 //cần cú pháp super();

@@ -11,4 +11,4 @@ y.date = 'var = cook; let = smaller but better var ; const = vua';
 console.log(">>> ktra x: ", x);
 console.log(">>> Bài 1: ", y);
 
-//Bài 1: var = cook; let = smaller but better var ; const = vua
+// var = cook; let = smaller but better var ; const = vua
